@@ -1,0 +1,13 @@
+NAME: Dhruv Singhania
+EMAIL: singhania_dhruv@yahoo.com
+
+Influencer House
+
+Description:
+Influencer House is a social media platform allowing for influencers to easily and efficiently connect with their fans and followers. I worked on writing code to modify and add to our existing administrator panel, allowing for ease of use and efficient navigation.
+For the admin panel web page, I added a tab display to organize and display our collected data and customized the UI to provide a better look. I made use of Node.js with React to generate content along with HTML and CSS to construct our display according to the specifications.
+
+Included files:
+Detail.js - javascript source file that renders the Users page with all functionality of our administrator panel
+
+The rest of the project, including voice, can be found at https://github.com/UCLAX1/BruinBot-Vision-AI
