@@ -10,4 +10,4 @@ For the admin panel web page, I added a tab display to organize and display our 
 Included files:
 Detail.js - javascript source file that renders the Users page with all functionality of our administrator panel
 
-The rest of the project, including voice, can be found at https://github.com/influencer-house-dev/AdminPanel
+The rest of the project can be found at https://github.com/influencer-house-dev/AdminPanel
